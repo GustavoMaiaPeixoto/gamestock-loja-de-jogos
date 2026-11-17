@@ -365,3 +365,4 @@ Também é possível criar uma conta nova em **Criar conta** (sempre como client
 | 3+ funcionalidades extras | 9 listadas acima |
 | Diagrama de classes e modelo do banco | seções acima |
 | Repositório público no GitHub | `docs/PUBLICAR_NO_GITHUB.md` |
+"# gamestock-loja-de-jogos" 
