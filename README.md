@@ -3,19 +3,6 @@
 Sistema web de loja virtual de jogos, com **vitrine pública para clientes** e **área administrativa** protegida por login.
 Desenvolvido em **PHP 8 + MySQL (PDO)**, com **Programação Orientada a Objetos** e **arquitetura MVC**.
 
-## Integrantes
-
-| Nome | Matrícula |
-|---|---|
-| **[PREENCHER: nome do integrante 1]** | [PREENCHER] |
-| **[PREENCHER: nome do integrante 2]** | [PREENCHER] |
-
-## Link do repositório
-
-**[PREENCHER: https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO]**
-
----
-
 ## Tema da loja
 
 Loja de **jogos (games)** — venda de jogos para diversos estilos (aventura, ação, esporte, RPG, indie...), com controle de estoque.
